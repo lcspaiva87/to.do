@@ -2,7 +2,7 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/lucas-antonio-paiva/">
-      <img alt="Lucas Antonio" src="https://img.shields.io/badge/-Lucas-antonio-paiva-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Lucas Antonio" src="https://img.shields.io/badge/-Lucasantoniopaiva-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelGoulartB/proffy?color=774DD6">
 
