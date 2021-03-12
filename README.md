@@ -51,9 +51,6 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 * [webpack](https://webpack.js.org//)       
 * [sass](https://sass-lang.com/) 
 
-# :rocket: Funcionalidades
-
-* Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
 
 
 # :construction_worker: Como rodar
@@ -82,9 +79,7 @@ Acesse: http://localhost:3000/ para ver o resultado.
 
 Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [to.do](https://github.com/lcspaiva87) Repositorio. Se você já encontrou a solução para o problema, **Eu amaria fazer o review do seu pull request**!
 
-# :tada: Contribuindo
 
-Confira a página de [contribuição](./CONTRIBUTING.md) para ver como começar uma discução e começar a contribuir.
 
 # :closed_book: Licencia
 
