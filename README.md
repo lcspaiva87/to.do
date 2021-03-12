@@ -33,10 +33,11 @@
 
 
 
-## 📥 Layout disponivel para download em:  
 
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';>
 
 ### Web Screenshot
+</div>
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
    <img src="./src/img/system.png" width="100%">
    
