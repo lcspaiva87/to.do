@@ -38,7 +38,7 @@
 
 # :eyes: Demo Website
 You can acess the website at:     
-👉  demo: https://iginite-to-do.netlify.app/ 
+👉  demo:https://ignite-to-do.netlify.app/
 
 
 
