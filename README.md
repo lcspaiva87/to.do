@@ -36,12 +36,12 @@
 </div>
 
 
+# :eyes: Demo Website
+You can acess the website at:     
+👉  demo: https://iginite-to-do.netlify.app/ 
 
-# :eyes: Site de Demostração
-Você pode acessar o site em:     
-👉  demo: 
+[![Netlify Status](https://iginite-to-do.netlify.app/ )](https://iginite-to-do.netlify.app/ )      
 
-[![Netlify Status](https://iginite-to-do.netlify.app/)     
 
 # :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
