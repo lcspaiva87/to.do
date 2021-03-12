@@ -1,4 +1,6 @@
-
+<p align="center">
+   <img src="./public/logo.svg" alt="Proffy" width="280"/>
+</p>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/lucas-antonio-paiva/">
