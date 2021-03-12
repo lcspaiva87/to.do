@@ -41,7 +41,7 @@
 Você pode acessar o site em:     
 👉  demo: 
 
-[![Netlify Status]()     
+[![Netlify Status](https://iginite-to-do.netlify.app/)     
 
 # :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
