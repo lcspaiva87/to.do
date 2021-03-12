@@ -40,7 +40,7 @@
 You can acess the website at:     
 👉  demo: https://iginite-to-do.netlify.app/ 
 
-[![Netlify Status](https://iginite-to-do.netlify.app/ )](https://iginite-to-do.netlify.app/ )      
+
 
 
 # :computer: Tecnologias
